@@ -66,7 +66,7 @@ const ChatLayout = ({ children }: { children: ReactNode }) => {
     return (
         <ChatProvider>
             {children}
-            <ChatWidget adminId={"6808783529a901b18f91a96d"} />
+            <ChatWidget adminId={"680ca6b101deb75ce25218bb"} />
         </ChatProvider>
     );
 };
